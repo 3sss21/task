@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         title: "Exapmles",
         theme: ThemeData(primarySwatch: Colors.amber),
         home: const BottomNavigation(),
+        
       ),
     );
   }
